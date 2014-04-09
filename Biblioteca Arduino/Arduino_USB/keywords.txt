@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Arduino_USB
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+Arduino_USB	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+
+Usb_Setup	KEYWORD2
+
+Read_Byte_from_USB	KEYWORD2
+Read_String_From_USB	KEYWORD2
+
+Write_To_USB	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
